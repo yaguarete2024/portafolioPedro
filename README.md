@@ -13,29 +13,31 @@
 
 
 *[Descripción del proyecto](#descripción-del-proyecto)
-Aplicación en consolaUna biblioteca de Java para acceder a la API Core v2 basada en HTTP de Dropbox. Este SDK también 
-es compatible con Core API v1 anterior, pero esta compatibilidad se eliminará en algún momento
+
+Litealura (catalago de libros), es un proyecto en el cual el usuario puede registra libros en una base de datos  y consultar la información antes registrada.
+Esta enfocado en le consumo de una API (Gutendex) y la persistencia de datos
 
 *[Estado del proyecto](#Estado-del-proyecto)
-:construction: Proyecto en construcción :construction:
+:construction: Proyecto Finalizado :construction:
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1
-- `Funcionalidad 2`: descripción de la funcionalidad 2
-- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2-
-- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Funcionalidad 1`: Buscar/Registrar libros por título
+- `Funcionalidad 2`: Listar libros registrados
+- `Funcionalidad 3`: Listar autores registrados
+- `Funcionalidad 4`: Listar autores vivos en un determinado año
+- `Funcionalidad 5`: Listar libros por idioma
+- `Funcionalidad 6`: Salir
 
 *[Acceso al proyecto](#acceso-proyecto)
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
+https://github.com/yaguarete2024/portafolioPedro/tree/main/literalura
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+Se usaran las tecnologias Java, Spring y Postgres.
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
 
 *[Conclusión](#conclusión)

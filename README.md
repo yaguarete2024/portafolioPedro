@@ -14,8 +14,8 @@
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
-Litealura (catalago de libros), es un proyecto en el cual el usuario puede registra libros en una base de datos  y consultar la información antes registrada.
-Esta enfocado en le consumo de una API (Gutendex) y la persistencia de datos
+Literalura (catálago de libros), es un proyecto en el cual el usuario puede registrar libros en una base de datos  y consultar la información antes registrada.
+Esta enfocado en le consumo de una API (Gutendex) y la persistencia de datos.
 
 *[Estado del proyecto](#Estado-del-proyecto)
 :construction: Proyecto Finalizado :construction:
@@ -37,7 +37,3 @@ https://github.com/yaguarete2024/portafolioPedro/tree/main/literalura
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
 Se usaran las tecnologias Java, Spring y Postgres.
-
-
-
-*[Conclusión](#conclusión)

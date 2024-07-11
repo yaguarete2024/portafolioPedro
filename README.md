@@ -31,7 +31,7 @@ ForoHub, es un proyecto que tiene como objetivo realizar la creación de una API
 
 *[Acceso al proyecto](#acceso-proyecto)
 
-https://github.com/yaguarete2024/portafolioPedro/tree/main/literalura
+(https://github.com/yaguarete2024/portafolioPedro/tree/main/AluraForoHub)
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 

@@ -19,14 +19,15 @@ ForoHub, es un proyecto que tiene como objetivo realizar la creación de una API
 :construction: Proyecto Finalizado :construction:
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-## :hammer:Funcionalidades del proyecto
+## :hammer:Funcionalidades del proyecto![Captura de pantalla 2024-07-11 174842](https://github.com/user-attachments/assets/3ae54a6b-9904-48e1-9746-4f9029bd1143)
 
-- `Funcionalidad 1`: Buscar/Registrar libros por título
-- `Funcionalidad 2`: Listar libros registrados
-- `Funcionalidad 3`: Listar autores registrados
-- `Funcionalidad 4`: Listar autores vivos en un determinado año
-- `Funcionalidad 5`: Listar libros por idioma
-- `Funcionalidad 6`: Salir
+
+- `Funcionalidad 1`: Detalle tópicopico: Mediante un edPoint se visualiza el tópico respectivo
+- `Funcionalidad 2`: Autenticación: Generar una clave encriptada de un usurio para obtener los privilegios de ingreso.
+- `Funcionalidad 3`: Borrar tópico: Eliminar de la base de datos el topico indicado en el endPoint.
+- `Funcionalidad 4`: Actualizar tópico:En el cuerpo del JSON actualizar los datos correspondientes
+- `Funcionalidad 5`: Listado tópico: Visualizar todos los tópicos registrados, previa autenticación
+- `Funcionalidad 6`: Registrar tópico: Ingresar nuevos tópicos en el body de JSON, previa autenticación.
 
 *[Acceso al proyecto](#acceso-proyecto)
 
